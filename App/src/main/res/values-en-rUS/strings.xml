@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form</string>
+    <string name="welcome">Welcome</string>
+    <string name="prompt_pseudo">Pseudo</string>
+    <string name="login_failed">Login failed</string>
+    <string name="invalid_username">Not valid</string>
+    <string name="invalid_password">Mot must do more 5 caractere</string>
+    <string name="action_sign_in_short">"Sign in "</string>
+    <string name="action_sign_in">Sign or log in</string>
+    <string name="prompt_mdp">Password</string>
+    <string name="Reset">Reset</string>
+</resources>
